@@ -4,8 +4,8 @@ spring:
       server:
         git:
           uri: https://gitee.com/iloveweilai/spring-cloud-config-demo.git
-          #username: iloveweilai
-          #password: myr970416
+          #username: 
+          #password:
           search-paths: SC-BOOK-CONFIG
   application:
     name: myr-config-git
